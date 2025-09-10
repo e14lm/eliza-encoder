@@ -1,4 +1,4 @@
-# E14LM Eliza Encoded Art Generator
+# E14LM Eliza Encoded
 
 Transform your images and videos into stunning encoded art with the power of E14LM Eliza technology!
 
